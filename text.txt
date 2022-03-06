@@ -1,0 +1,28 @@
+Author: Anthony DeBarros, Book name: Practical SQL, 2nd Edition,Summary: A fast-paced guide to SQL – the language for defining, organizing, and exploring relational data.
+Author: Bryson Payne, Book name: Go H*ck Yourself,Summary: A hands-on intro to hacking that guides you through executing every major type of attack (from the safety of a virtual lab).
+Author: Michal Zalewski, Book name: Practical Doomsday,Summary: Outlines a model for evaluating risks in your life, as well as preparing for a wide range of potential crises.
+Author: Bob Plantz, Book name: Introduction to Computer Organization,Summary: A tutorial-style book that provides an introductory "look under the hood" of a modern computer.
+Author: Irv Kalb, Book name: Object-Oriented Python,Summary: A hands-on tutorial that goes deep into OOP, showing you how to combine data and code into reusable units.
+Author: Jon Gjengset, Book name: Rust for Rustaceans,Summary: Bridges the gap between beginners and professionals, enabling you to write apps, build libraries, and organize projects in Rust.
+Author: Colin O'Flynn and Jasper van Woudenberg, Book name: The Hardware Hacking Handbook,Summary: Cracks open embedded security to show how hardware attacks work from the inside out.
+Author: Loren Kohnfelder, Book name: Designing Secure Software,Summary: An elegant, team-oriented guide for building security into the software design process.
+Author: Bruce Nikkel, Book name: Practical Linux Forensics,Summary: A practitioner’s guide focused on postmortem analysis of modern Linux installations.
+Author: Vickie Li, Book name: Bug Bounty Bootcamp,Summary: A beginner's guide to web hacking, bug hunting, reporting vulnerabilities – and getting paid for it.
+Author: Ronald T. Kneusel, Book name: Math for Deep Learning,Summary: Covers DL's core numerical concepts, using Python to illustrate each subfield of math and its application.
+Author: Dmitry Kirsanov, Book name: The Book of Inkscape, 2nd Edition,Summary: An updated guide on using the graphics editor to draw, work with objects, and apply effects.
+Author: Randall Hyde, Book name: The Art of 64-Bit Assembly,Summary: Builds off its timeless predecessor, with a modern focus on writing programs using the x86 MASM. 
+Author: Daniel G. Graham, Book name: Ethical Hacking,Summary: A crash course in modern hacking techniques, with lots of hands-on labs for aspiring offensive security experts. 
+Author: Jon DiMaggio, Book name: The Art of Cyberwarfare,Summary: A detailed guide to nation-state hacking methods that shows how to track, analyze, and attribute advanced attacks.
+Author: Chet Haase, Book name: Androids,Summary: The history of Android has only been told in bits and pieces – until now. This is the real story of how the world’s most widely used operating system came to be.
+Author: Jim Parker, Book name: An Artist's Guide to Programming,Summary: Teaches you how to write apps that integrate graphics and sound (includes 100 example programs).
+Author: Patrick Wardle, Book name: The Art of Mac Malware,Summary: A handbook for Apple infection methods, malicious script analysis, and Mach-O malware.
+Author: Joe Gray, Book name: Practical Social Engineering,Summary: A hands-on look at the cyber attacks that target human nature, with pentesting templates for performing SE ops, and tips for defending against them.
+Author: Corey Ball, Book name: Hacking APIs,Summary: Learn how to test APIs for security vulnerabilities so you can uncover high-payout bugs and improve the security of web apps.
+Author: Bradley Smith, Book name: DevOps for the Desperate,Summary: A hands-on, no-nonsense guide for those who land in a DevOps environment and need to get up and running quickly.
+Author: Suzanne J. Matthews, Tia Newhall, and Kevin C. Webb, Book name: Dive Into Systems,Summary: This college-level teaching tool is a vivid, layer-by-layer intro to computer organization, architecture, and software components.
+Author: Yuli Vasiliev, Book name: Python for Data Science,Summary: Introduces you to the Pythonic world of data analysis with a learn-by-doing approach rooted in practical examples and hands-on activities.
+Author: Christian Mayer, Book name: The Art of Clean Code,Summary: Uses 8 core principles, with a focus on simplicity and functionality, to teach you how to write clear, maintainable code.
+Author: Al Sweigart, Book name: The Recursive Book of Recursion,Summary: Teaches all the basics of recursion through coding projects, running programs, and using algorithms.
+Author: Adam Schroeder, Christian Mayer, and Ann Marie Ward, Book name: Python Dash,Summary:  A practical, fast-paced introduction to building interactive data-visualization dashboard apps in Python.
+Author: Norman Matloff, Book name: The Art of Machine Learning,Summary: A practical guidebook on how to make full use of powerful machine learning methods—without the advanced math
+Author: Nick Morgan, Book name: JavaScript Crash Course,Summary: This hands-on quick-start guide to JavaScript will have you writing software and web apps in no time.
